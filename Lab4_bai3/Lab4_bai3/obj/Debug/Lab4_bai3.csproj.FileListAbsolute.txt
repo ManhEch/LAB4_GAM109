@@ -1,0 +1,7 @@
+D:\Laptrinh C#2\Lab4_bai3\Lab4_bai3\bin\Debug\Lab4_bai3.exe.config
+D:\Laptrinh C#2\Lab4_bai3\Lab4_bai3\bin\Debug\Lab4_bai3.exe
+D:\Laptrinh C#2\Lab4_bai3\Lab4_bai3\bin\Debug\Lab4_bai3.pdb
+D:\Laptrinh C#2\Lab4_bai3\Lab4_bai3\obj\Debug\Lab4_bai3.csproj.AssemblyReference.cache
+D:\Laptrinh C#2\Lab4_bai3\Lab4_bai3\obj\Debug\Lab4_bai3.csproj.CoreCompileInputs.cache
+D:\Laptrinh C#2\Lab4_bai3\Lab4_bai3\obj\Debug\Lab4_bai3.exe
+D:\Laptrinh C#2\Lab4_bai3\Lab4_bai3\obj\Debug\Lab4_bai3.pdb

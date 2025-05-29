@@ -1,0 +1,8 @@
+D:\Laptrinh C#2\Lab4_Bai2\Lab4_Bai2\bin\Debug\Lab4_Bai2.exe.config
+D:\Laptrinh C#2\Lab4_Bai2\Lab4_Bai2\bin\Debug\Lab4_Bai2.exe
+D:\Laptrinh C#2\Lab4_Bai2\Lab4_Bai2\bin\Debug\Lab4_Bai2.pdb
+D:\Laptrinh C#2\Lab4_Bai2\Lab4_Bai2\obj\Debug\Lab4_Bai2.csproj.AssemblyReference.cache
+D:\Laptrinh C#2\Lab4_Bai2\Lab4_Bai2\obj\Debug\Lab4_Bai2.csproj.CoreCompileInputs.cache
+D:\Laptrinh C#2\Lab4_Bai2\Lab4_Bai2\obj\Debug\Lab4_Bai2.exe
+D:\Laptrinh C#2\Lab4_Bai2\Lab4_Bai2\obj\Debug\Lab4_Bai2.pdb
+D:\Laptrinh C#2\Lab4_Bai2\Lab4_Bai2\obj\Debug\Lab4_Bai2.exe.config
